@@ -7,7 +7,7 @@ import Pricing from "../Components/Home/Pricing";
 import Process from "../Components/Home/Process";
 import Services from "../Components/Home/Services";
 import Team from "../Components/Home/Team";
-import Testimonial from "../Components/Home/Testimonial";
+import Testimonial3 from "../Components/Home/Testimonial";
 
 const Home = () => {
     return (
@@ -29,14 +29,14 @@ const Home = () => {
                 NumberContent="Call any time for Freseir services"
                 Number="(+578) 587 89168"
             ></About>
-            <Services></Services>
-            <Team></Team>
             <Choose></Choose>
-            <Pricing></Pricing>
-            <Testimonial></Testimonial>
-            <Faq></Faq>
-            <Process></Process>
-            <Blog></Blog>
+            <Team></Team>
+            <Services></Services>
+            {/* <Pricing></Pricing> */}
+            <Testimonial3></Testimonial3>
+            {/* <Faq></Faq> */}
+            {/* <Process></Process> */}
+            {/* <Blog></Blog> */}
         </div>
     );
 };

@@ -1,0 +1,45 @@
+# Node modules and build directories
+node_modules/
+dist/
+out/
+
+# TypeScript compiled files
+*.js
+*.js.map
+*.d.ts
+
+# Environment variables and configuration files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code specific files
+.vscode/
+.history/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+coverage/
+*.lcov
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*~
