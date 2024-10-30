@@ -1,0 +1,26 @@
+[
+  {
+    "bgImg": "/assets/img/hero_bg_1.jpg",
+    "subTitle": "Repairing Services",
+    "title": "Keeping You Cool All Year Round",
+    "desc": "Common signs include unusual noises, reduced airflow, uneven cooling, strange odors, and higher energy bills",
+    "img": "/assets/img/hero_img_1.png",    
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_2.jpg",
+    "subTitle": "Repairing Services",
+    "title": "Fast & Reliable AC Fixes Hub",
+    "desc": "Common signs of AC problems include unusual noises, reduced airflow, uneven cooling, strange odors, and unexpectedly higher energy bills.",
+    "img": "/assets/img/hero_img_2.png",    
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hero_bg_3.jpg",
+    "subTitle": "Repairing Services",
+    "title": "Expert Cooling Solutions",
+    "desc": "Watch for unusual noises, reduced airflow, uneven cooling, strange odors, and higher energy bills as common signs of AC issues.",
+    "img": "/assets/img/hero_img_3.png",    
+    "link": "/about"
+  }
+]

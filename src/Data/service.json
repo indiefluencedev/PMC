@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "title": "ComfortCare Tune-Up",
+    "desc": "24/7 emergency repair services for sudden breakdowns",
+    "img": "/assets/img/icons/service_icon_1.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "02",
+    "title": "Frosty Flow Systems",
+    "desc": "Common signs include reduced cooling efficiency strange",
+    "img": "/assets/img/icons//service_icon_2.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "03",
+    "title": "Breeze Tech Cooling",
+    "desc": "It is recommended to service a your air conditioner signs",
+    "img": "/assets/img/icons//service_icon_3.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "04",
+    "title": "Eco Cool Maintenance",
+    "desc": "Check the thermostat settings clean or replace the filter",
+    "img": "/assets/img/icons//service_icon_4.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "05",
+    "title": "ArcticShield Repairs",
+    "desc": "strange noises, unpleasant and odors, and increased",
+    "img": "/assets/img/icons//service_icon_5.svg",    
+    "link": "/service/service-details"
+  },
+  {
+    "id": "06",
+    "title": "Cool Breeze Solutions",
+    "desc": "Testing and analysis of indoor air quality with Air",
+    "img": "/assets/img/icons//service_icon_6.svg",    
+    "link": "/service/service-details"
+  }    
+]

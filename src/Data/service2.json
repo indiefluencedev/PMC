@@ -1,0 +1,92 @@
+[
+  {
+    "icon": "/assets/img/icons/service_icon_7.svg",  
+    "SubTitle": "Air Filtration Solutions",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_1.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ]
+  },
+  {
+    "icon": "/assets/img/icons/service_icon_8.svg",  
+    "SubTitle": "Indoor Air Quality Testing",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_2.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ]     
+  },
+  {
+    "icon": "/assets/img/icons/service_icon_9.svg",  
+    "SubTitle": "Chill Guard Protection",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_4.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ] 
+  },
+  {
+    "icon": "/assets/img/icons/service_icon_10.svg",  
+    "SubTitle": "Air Filtration Solutions",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_1.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ]      
+  },
+  {
+    "icon": "/assets/img/icons/service_icon_8.svg",  
+    "SubTitle": "Indoor Air Quality Testing",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_2.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ]     
+  },
+  {
+    "icon": "/assets/img/icons/service_icon_9.svg",  
+    "SubTitle": "Chill Guard Protection",
+    "title": "Reliable Cooling Exceptional Service",
+    "desc": "Air conditioners can develop various issues over time,  as refrigerant leaks, compressor problems, or electrical issues.", 
+    "img": "/assets/img/service_details_4.png",  
+    "Features":[
+        "AirFlow Optimization",
+        "AirFlow Optimization",
+        "FreezeGuard Installation",
+        "Cool Care Maintenance",
+        "ClimateControl Checkup",
+        "ChillOut Emergency Services"
+    ]  
+  }   
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "img": "/assets/img/avatar_2.png",  
+    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
+    "title": "Robert Fox",
+    "subTitle": "Project Manager",
+    "review": "Great Services"
+  },
+  {
+    "img": "/assets/img/avatar_3.png",  
+    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
+    "title": "Guy Hawkins",
+    "subTitle": "Product support",    
+    "review": "Great Services"
+  },
+  {
+    "img": "/assets/img/avatar_2.png",  
+    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
+    "title": "Jacob Jones",
+    "subTitle": "Customer success",  
+    "review": "Great Services"
+  },
+  {
+    "img": "/assets/img/avatar_1.png",  
+    "desc": "Not sure what air conditioning system is as best for your home? Our FrostFree Consultation service provides expert",  
+    "title": "Robert Fox",
+    "subTitle": "Project Manager",
+    "review": "Great Services"
+  },
+  {
+    "img": "/assets/img/avatar_3.png",  
+    "desc": "Dust and debris can accumulate in your air conditioning system, reducing its efficiency Our Chill Max Cleaning service",  
+    "title": "Guy Hawkins",
+    "subTitle": "Product support",    
+    "review": "Great Services"
+  },
+  {
+    "img": "/assets/img/avatar_2.png",  
+    "desc": "Proper calibration of your AC system your ensures even cooling throughout your as  home. Our Breeze Balance",  
+    "title": "Jacob Jones",
+    "subTitle": "Customer success",  
+    "review": "Great Services"
+  } 
+]

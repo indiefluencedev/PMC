@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/assets/img/team_member_5.jpg",  
+    "title": "Kathryn Murphy",
+    "subTitle": "Managing Partner"
+  },
+  {
+    "img": "/assets/img/team_member_6.jpg",  
+    "title": "Marvin McKinney",
+    "subTitle": "President Of Sales"
+  },
+  {
+    "img": "/assets/img/team_member_7.jpg",  
+    "title": "Darlene Robertson",
+    "subTitle": "Project Manager"
+  },
+  {
+    "img": "/assets/img/team_member_8.jpg",  
+    "title": "Cameron William",
+    "subTitle": "Managing Partner"
+  },
+  {
+    "img": "/assets/img/team_member_5.jpg",  
+    "title": "Leslie Alexander",
+    "subTitle": "Managing Partner"
+  }, 
+  {
+    "img": "/assets/img/team_member_6.jpg",
+    "title": "Brooklyn Simmons",
+    "subTitle": "Managing Partner"
+  }, 
+  {
+    "img": "/assets/img/team_member_7.jpg",  
+    "title": "Savannah Nguyen",
+    "subTitle": "MProject Manager"
+  }, 
+  {
+    "img": "/assets/img/team_member_6.jpg", 
+    "title": "Courtney Henry",
+    "subTitle": "Managing Partner"
+  }   
+]

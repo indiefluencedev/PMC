@@ -1,0 +1,50 @@
+[
+  {
+    "img": "/assets/img/team_member_1.png",  
+    "title": "Kathryn Murphy",
+    "subTitle": "Managing Partner",
+    "number": "(+108) 444-0245"
+  },
+  {
+    "img": "/assets/img/team_member_2.png",  
+    "title": "Marvin McKinney",
+    "subTitle": "President Of Sales",
+    "number": "(+108) 213-1254"
+  },
+  {
+    "img": "/assets/img/team_member_3.png",  
+    "title": "Darlene Robertson",
+    "subTitle": "Project Manager",
+    "number": "(+108) 543-2352"
+  },
+  {
+    "img": "/assets/img/team_member_4.png",  
+    "title": "Cameron William",
+    "subTitle": "Managing Partner",
+    "number": "(+108) 122-3215"
+  },
+  {
+    "img": "/assets/img/team_member_9.png",  
+    "title": "Leslie Alexander",
+    "subTitle": "Managing Partner",
+    "number": "(+108) 444-0845"
+  }, 
+  {
+    "img": "/assets/img/team_member_10.png",  
+    "title": "Brooklyn Simmons",
+    "subTitle": "Managing Partner",
+    "number": "(+108) 091-2734"
+  }, 
+  {
+    "img": "/assets/img/team_member_11.png",  
+    "title": "Savannah Nguyen",
+    "subTitle": "MProject Manager",
+    "number": "(+108) 474-0845"
+  }, 
+  {
+    "img": "/assets/img/team_member_12.png",  
+    "title": "Courtney Henry",
+    "subTitle": "Managing Partner",
+    "number": "(+808) 444-0765"
+  }   
+]
