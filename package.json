@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "arkdin": "file:",
     "bootstrap": "^5.3.3",
     "html-react-parser": "^5.1.12",
     "localforage": "^1.10.0",

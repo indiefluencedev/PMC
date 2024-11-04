@@ -25,7 +25,7 @@ const About = () => {
             ></About2>
             <Testimonial></Testimonial>
             {/* <Faq></Faq> */}
-            <Process></Process>
+           
         </div>
     );
 };
