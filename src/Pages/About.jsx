@@ -1,7 +1,7 @@
 import About2 from "../Components/About/About2";
 import BreadCumb from "../Components/Common/BreadCumb";
-import Faq from "../Components/Home/Faq";
-import Process from "../Components/Home/Process";
+// import Faq from "../Components/Home/Faq";
+// import Process from "../Components/Home/Process";
 import Testimonial from "../Components/Home/Testimonial";
 
 const About = () => {
@@ -24,8 +24,8 @@ const About = () => {
                 BioContent="Call any time for services"                
             ></About2>
             <Testimonial></Testimonial>
-            <Faq></Faq>
-            <Process></Process>
+            {/* <Faq></Faq> */}
+           
         </div>
     );
 };
