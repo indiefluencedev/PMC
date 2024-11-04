@@ -7,7 +7,7 @@ import About from "../Pages/About";
 import Contact from "../Pages/Contact";
 // import Services from "../Pages/Services";
 // import ServiceDetails from "../Components/ServiceDetails/ServiceDetails";
-import Team from "../Pages/Team";
+import Products from "../Pages/Products";
 import TeamDetails from "../Components/TeamDetails/TeamDetails";
 import Project from "../Pages/Project";
 import ProjectDetails from "../Components/ProjectDetails/ProjectDetails";
@@ -36,7 +36,7 @@ export const router = createBrowserRouter([
           // }, 
           {
             path: "/team",
-            element: <Team></Team>,
+            element: <Products></Products>,
           },  
           {
             path: "/team/team-details",

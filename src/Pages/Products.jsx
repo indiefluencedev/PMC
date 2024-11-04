@@ -1,7 +1,7 @@
 import BreadCumb from "../Components/Common/BreadCumb";
 import Team1 from "../Components/Team/Team1";
 
-const Team = () => {
+const Products = () => {
     return (
         <div className="team-area">
             <BreadCumb Title="Team"></BreadCumb>
@@ -10,4 +10,4 @@ const Team = () => {
     );
 };
 
-export default Team;
+export default Products;
