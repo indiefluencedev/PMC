@@ -28,11 +28,9 @@ const Home = () => {
             <Choose></Choose>
             <Team></Team>
             <Services></Services>
-            {/* <Pricing></Pricing> */}
+         
             <Testimonial3></Testimonial3>
-            {/* <Faq></Faq> */}
-            {/* <Process></Process> */}
-            {/* <Blog></Blog> */}
+          
         </div>
     );
 };
