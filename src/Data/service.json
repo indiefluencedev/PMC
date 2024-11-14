@@ -1,44 +1,23 @@
 [
   {
     "id": "01",
-    "title": "ComfortCare Tune-Up",
-    "desc": "24/7 emergency repair services for sudden breakdowns",
+    "title": "Enhanced Rust Protection  ",
+    "desc": " Zinc phosphatic treatment with a 7-tank process ensures superior durability and safeguards against rust, even in challenging environments.",
     "img": "/assets/img/icons/service_icon_1.svg",    
     "link": "/service/service-details"
   },
   {
     "id": "02",
-    "title": "Frosty Flow Systems",
-    "desc": "Common signs include reduced cooling efficiency strange",
+    "title": "Shock-Proof Design ",
+    "desc": "Our products are engineered with shock-resistant features, offering maximum safety and reliability for all applications.",
     "img": "/assets/img/icons//service_icon_2.svg",    
     "link": "/service/service-details"
   },
   {
     "id": "03",
-    "title": "Breeze Tech Cooling",
-    "desc": "It is recommended to service a your air conditioner signs",
+    "title": "Long-Lasting Durability",
+    "desc": "Built to last, our products combine advanced materials and processes to deliver unmatched performance over time.",
     "img": "/assets/img/icons//service_icon_3.svg",    
-    "link": "/service/service-details"
-  },
-  {
-    "id": "04",
-    "title": "Eco Cool Maintenance",
-    "desc": "Check the thermostat settings clean or replace the filter",
-    "img": "/assets/img/icons//service_icon_4.svg",    
-    "link": "/service/service-details"
-  },
-  {
-    "id": "05",
-    "title": "ArcticShield Repairs",
-    "desc": "strange noises, unpleasant and odors, and increased",
-    "img": "/assets/img/icons//service_icon_5.svg",    
-    "link": "/service/service-details"
-  },
-  {
-    "id": "06",
-    "title": "Cool Breeze Solutions",
-    "desc": "Testing and analysis of indoor air quality with Air",
-    "img": "/assets/img/icons//service_icon_6.svg",    
     "link": "/service/service-details"
   }    
 ]
