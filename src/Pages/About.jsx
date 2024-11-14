@@ -24,7 +24,7 @@ const About = () => {
                 BioContent="Call any time for services"                
             ></About2>
             <Testimonial></Testimonial>
-            {/* <Faq></Faq> */}
+            
            
         </div>
     );

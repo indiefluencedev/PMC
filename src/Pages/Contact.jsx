@@ -3,6 +3,7 @@ import ContactCard from "../Components/ContactCard/ContactCard"
 import Form3 from "../Components/Form/Form3";
 
 const Contact = () => {
+
     return (
         <div className="contact-page">
             <BreadCumb Title="Contact Us"></BreadCumb>
