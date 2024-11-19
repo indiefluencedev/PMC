@@ -12,15 +12,15 @@ const Home = () => {
             <About
                 Img="/assets/img/about_img_1.png"
                 TitleUp="About us"
-                Title="Where every breath feels fresh and cool"
-                Content="Prompt diagnosis and repair of any issues with your air conditioning unit your ensure optimal performance Inspection of ductwork for leaks or damage air followed by sealing to improve energy efficiency"
+                Title="Illuminating Spaces with Trusted Quality "
+                Content="Transform everyday environments with PMC's advanced electrical accessories. Where innovation meets design, we deliver reliable, sustainable solutions that enhance your lifestyle and projects."
                 FeatureList={[
-                    "AirFlow Optimization",
-                    "PureAir Quality Testing",
-                    "FreezeGuard Installation",
-                    "Cool Care Maintenance",
-                    "ClimateControl Checkup",
-                    "ChillOut Emergency Services"
+                    " Innovation",
+                    " Reliability",
+                    "Technology",
+                    "CQuality",
+                    "Cl Safety ",
+                    "Durability"
                 ]}
                 NumberContent="Call any time for Freseir services"
                 Number="(+578) 587 89168"

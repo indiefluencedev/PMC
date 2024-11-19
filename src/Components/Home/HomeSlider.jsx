@@ -45,9 +45,9 @@ const HomeSlider = () => {
                         <img src="/assets/img/icons/fan.svg" alt="" />
                         {item.subTitle}
                       </h3>
-                      <h1 className="cs_hero_title cs_white_color cs_fs_74 cs_mb_18">{item.title}</h1>
-                      <p className="cs_hero_subtitle cs_white_color cs_mb_34">{item.desc}</p>
-                      <div className="cs_hero_btns">
+                      <h1 className=" cs_hero_title cs_white_color cs_fs_60 cs_mb_18 ms-5">{item.title}</h1>
+                      <p className="cs_hero_subtitle cs_white_color cs_mb_34 ms-5">{item.desc}</p>
+                      <div className="cs_hero_btns ms-5">
                         <Link to={item.link} className="cs_btn cs_style_1" >
                           <span>Read More</span>
                           <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">

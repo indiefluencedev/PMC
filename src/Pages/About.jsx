@@ -12,7 +12,8 @@ const About = () => {
                 Img="/assets/img/about_img_2.png"
                 TitleUp="About us"
                 Title="Turning up the chill factor in your home or office"
-                Content="This involves setting up a new air conditioning system in your home or office. It's crucial to ensure that the unit is properly sized for the space and installed correctly for optimal efficiency"
+                Content="PMC delivers electrical accessories that stand out for their quality and design. Our range is built for those who want the best in both aesthetics and durability, giving every space the illumination it deserves.As one of the leading brands in the manufacturing of high-quality electrical accesories, we take pride in delivering solutions that meet the needs of both residential and commercial construction.
+"
                 FeatureList={[
                     "Ventilation System Maintenance",
                     "Indoor Air Quality Testing",
