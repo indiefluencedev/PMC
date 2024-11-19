@@ -1,6 +1,6 @@
 [
   {
-    "Category": "Aluminum Flap Cover",
+    "Category": "Aluminum flap cover",
     "image": ["/assets/img/Products/PRODUCT1.png", "/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT3.png"],
     "subdata": [
       {
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "Category": "MCB Enclosure",
+    "Category": "MCB enclosure",
     "image": ["/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT2.png"],
     "subdata": [
       {

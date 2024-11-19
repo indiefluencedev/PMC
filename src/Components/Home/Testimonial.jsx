@@ -45,7 +45,7 @@ const Testimonial3 = () => {
         <div className="container">
           <div className="cs_section_heading cs_style_1">
            <SectionTitle
-                    Title="What Clients Say <br/>About Us"
+                    Title="What clients say <br/>About us"
                     SubTitle="Testimonials"                
                 >
             </SectionTitle>

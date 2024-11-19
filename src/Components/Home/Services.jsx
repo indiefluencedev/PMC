@@ -16,8 +16,8 @@ const Services = () => {
       <div className="container">
         <div className="cs_section_heading cs_style_1 text-center">
               <SectionTitle
-                    Title="Breathe Easy Air Quality <br/>Assessment"
-                    SubTitle="our bast servicses"
+                    Title="Breathe easy air quality <br/>assessment"
+                    SubTitle="our best servicses"
               ></SectionTitle>
         </div>
         <div className="cs_height_45 cs_height_lg_45"></div>

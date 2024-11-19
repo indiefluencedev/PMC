@@ -53,8 +53,8 @@ const Team = () => {
               <div className="cs_slider_heading_1">
                 <div className="cs_section_heading cs_style_1">
                 <SectionTitle
-                    Title="Meet Our Team of Expert"
-                    SubTitle="Expert Team"
+                    Title="Meet our team of expert"
+                    SubTitle="Expert team"
                 ></SectionTitle>
                 </div>
                 <div className="cs_slider_arrows cs_style_2 cs_hide_md">

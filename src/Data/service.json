@@ -1,21 +1,21 @@
 [
   {
     "id": "01",
-    "title": "Enhanced Rust Protection  ",
+    "title": "Enhanced rust protection  ",
     "desc": " Zinc phosphatic treatment with a 7-tank process ensures superior durability and safeguards against rust, even in challenging environments.",
     "img": "/assets/img/icons/service_icon_1.svg",    
     "link": "/service/service-details"
   },
   {
     "id": "02",
-    "title": "Shock-Proof Design ",
+    "title": "Shock-proof design ",
     "desc": "Our products are engineered with shock-resistant features, offering maximum safety and reliability for all applications.",
     "img": "/assets/img/icons//service_icon_2.svg",    
     "link": "/service/service-details"
   },
   {
     "id": "03",
-    "title": "Long-Lasting Durability",
+    "title": "Long-lasting durability",
     "desc": "Built to last, our products combine advanced materials and processes to deliver unmatched performance over time.",
     "img": "/assets/img/icons//service_icon_3.svg",    
     "link": "/service/service-details"

@@ -16,7 +16,7 @@ const Choose = () => {
             <div className="cs_why_chose_us_in">
               <div className="cs_section_heading cs_style_1">
               <SectionTitle
-                  Title="Illuminate Your Spaces with PMC "
+                  Title="Illuminate your spaces with PMC "
                   SubTitle="Why Choose Us"
               ></SectionTitle>
               </div>
