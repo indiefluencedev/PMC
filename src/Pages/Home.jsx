@@ -24,6 +24,7 @@ const Home = () => {
                 ]}
                 NumberContent="Call any time for Freseir services"
                 Number="(+578) 587 89168"
+                
             ></About>
             <Choose></Choose>
             <Team></Team>
