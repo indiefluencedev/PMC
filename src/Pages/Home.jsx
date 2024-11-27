@@ -2,8 +2,9 @@ import About from "../Components/Home/About";
 import Choose from "../Components/Home/Choose";
 import HomeSlider from "../Components/Home/HomeSlider";
 import Services from "../Components/Home/Services";
-import Team from "../Components/Home/Team";
+// import OurProducts from "../Components/Home/OurProducts";
 import Testimonial3 from "../Components/Home/Testimonial";
+import OurProducts from "../Components/Home/OurProducts";
 
 const Home = () => {
     return (
@@ -27,7 +28,7 @@ const Home = () => {
                 
             ></About>
             <Choose></Choose>
-            <Team></Team>
+            <OurProducts></OurProducts>
             <Services></Services>
          
             <Testimonial3></Testimonial3>

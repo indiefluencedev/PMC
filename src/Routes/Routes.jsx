@@ -8,7 +8,7 @@ import Contact from "../Pages/Contact";
 // import Services from "../Pages/Services";
 // import ServiceDetails from "../Components/ServiceDetails/ServiceDetails";
 import Products from "../Pages/Products";
-import TeamDetails from "../Components/TeamDetails/TeamDetails";
+import TeamDetails from "../Components/TeamDetails/ProductDetails";
 import Project from "../Pages/Project";
 import ProjectDetails from "../Components/ProjectDetails/ProjectDetails";
 
@@ -39,9 +39,9 @@ export const router = createBrowserRouter([
             element: <Products></Products>,
           },  
           {
-            path: "/team/team-details",
-            element: <TeamDetails></TeamDetails>,
-          },   
+            path: "/team/team-details/:id", // Dynamic route
+            element: <TeamDetails />,
+        },   
           {
             path: "/project",
             element: <Project></Project>,

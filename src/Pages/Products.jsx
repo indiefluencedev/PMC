@@ -1,11 +1,11 @@
 import BreadCumb from "../Components/Common/BreadCumb";
-import Team1 from "../Components/Team/Team1";
+import Products1 from "../Components/Products1/Products1";
 
 const Products = () => {
     return (
         <div className="team-area">
-            <BreadCumb Title="Team"></BreadCumb>
-            <Team1></Team1>
+            <BreadCumb Title="Our Products"></BreadCumb>
+            <Products1></Products1>
         </div>
     );
 };
