@@ -136,7 +136,7 @@ const OurProducts = () => {
                                                     {item.Category}
                                                 </h3>
                                                 <p className="cs_team_member_designation cs_fs_14 mb-0">
-                                                    {item.Category}
+                                                    {item.Product_type}
                                                 </p>
                                             </div>
                                             <div className="cs_team_member_phone_number cs_fs_18 cs_heading_color">

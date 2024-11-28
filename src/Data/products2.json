@@ -20,7 +20,7 @@
     "Product_type" : "1/2/3/4 Pole",
     "Description": "SPN distribution board with a premium powder-coated finish for safety and aesthetics",
     "Characteristics": ["Anti-rust durability with a 7-tank zinc phosphatic treatment.", "Includes a multi-hole brass bus bar and earth terminal for superior conductivity.", "Available in 4-way single and double-door options for varied needs.","PVC-insulated bus bars to protect against electrical shocks."],
-    "image": ["/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT2.png"],
+    "image": ["/assets/img/Products/MCB-Enclosure-1.png","/assets/img/Products/MCB-Enclosure-6.png", "/assets/img/Products/MCB-Enclosure-3.png"],
     "subdata": [
       {
         "Item Code": ["PMC MCBE 101", "PMC MCBE 103"],
@@ -138,7 +138,7 @@
     "Product_type":"1.5, 1.4, 2.5 Kg/Dz",
     "Description": "Heavy-duty cast iron junction box with sharp, precise screws for secure pipe installation.",
     "Characteristics": ["Electroplated zinc coating for rust resistance and longevity.", "Sharp teeth and threading for easy wall engraving and secure mounting.", "Special bend design holds PVC pipes securely.","Tempered header nail to prevent bending for reliable performance."],
-    "image": ["/assets/img/Products/PRODUCT9.png"],
+    "image": ["/assets/img/Products/Junction-Box-8.png","/assets/img/Products/Junction-Box-7.png","/assets/img/Products/Junction-Box.png"],
     "subdata": [
       {
         "Item Code": ["PMC JB 101", "PMC JB 102", "PMC JB 103"],
@@ -158,7 +158,7 @@
     "Product_type":"Iron Pipe Hook",
     "Description": "Durable iron pipe hook with precise design, sharp threading, and electroplated zinc coating for secure and rust-resistant PVC pipe installation.",
     "Characteristics": ["Tempered header nail to prevent bending for reliable and long-lasting use.", "Electroplated zinc coating for a promising rust resistance and durability.", "Definite Bend Design to securely hold PVC pipes with exact measurements.","Sharp Thread & Head to ensure easy wall engraving and hassle-free installation."],
-    "image": ["/assets/img/Products/PRODUCT10.png"],
+    "image": ["/assets/img/Products/Iron-Pipe-Hook-2.png"],
     "subdata": [
       {
         "Item Code": ["PMC IJH 101", "PMC IJH 102"],
@@ -190,7 +190,7 @@
     "Product_type":"Silver",
     "Description": "Shock-proof modular box with GPSP plastic caps and internal brass nut holders.",
     "Characteristics": ["Durable zinc phosphatic treatment for anti-rust performance.", "GPSP plastic cap to ensure enhanced safety and stability.", "Shock-proof design for secure electrical installation","Premium powder-coated finish."],
-    "image": ["/assets/img/Products/PRODUCT12.png"],
+    "image": ["/assets/img/Products/PRODUCT13.png"],
     "subdata": [
       {
         "Item Code": ["PMC MB 101", "PMC MB 102", "PMC MB 103", "PMC MB 104", "PMC MB 105", "PMC MB 106", "PMC MB 107", "PMC MB 108"],
@@ -222,7 +222,7 @@
     "Product_type":"Copper",
     "Description": "Shock-proof modular box with GPSP plastic caps and internal brass nut holders.",
     "Characteristics": ["Durable zinc phosphatic treatment for anti-rust performance.", "GPSP plastic cap to ensure enhanced safety and stability.", "Shock-proof design for secure electrical installation","Premium powder-coated finish."],
-    "image": ["/assets/img/Products/PRODUCT14.png"],
+    "image": ["/assets/img/Products/Modular-Box-18-Gauge-5.png","/assets/img/Products/Modular-Box-18-Gauge-4.png","/assets/img/Products/Modular-Box-18-Gauge-7.png"],
     "subdata": [
       {
         "Item Code": ["MIRAI GP PC 5001", "MIRAI GP PC 5002", "MIRAI GP PC 5003", "MIRAI GP PC 5004", "MIRAI GP PC 5005", "MIRAI GP PC 5006", "MIRAI GP PC 5007", "MIRAI GP PC 5008"],
@@ -238,7 +238,7 @@
     "Product_type" : "Concealed Box Ring & Socket",
     "Description": " Heavy-gauge concealed box with PMC pipe compatibility and superior rust resistance.",
     "Characteristics": ["Zinc phosphatic treatment and powder coating for rust-proof durability", "Bend-proof design made with heavy-gauge material.", "Designed for PMC pipe compatibility with proper holes.","Includes cement guard for added protection."],
-    "image": ["/assets/img/Products/PRODUCT15.png"],
+    "image": ["/assets/img/Products/Concealed-Box-3.png","/assets/img/Products/Concealed-Box.png","/assets/img/Products/Concealed-Box-6.png"],
     
     "subdata": [
       {
