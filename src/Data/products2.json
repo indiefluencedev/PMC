@@ -20,7 +20,7 @@
     "Product_type" : "1/2/3/4 Pole",
     "Description": "SPN distribution board with a premium powder-coated finish for safety and aesthetics",
     "Characteristics": ["Anti-rust durability with a 7-tank zinc phosphatic treatment.", "Includes a multi-hole brass bus bar and earth terminal for superior conductivity.", "Available in 4-way single and double-door options for varied needs.","PVC-insulated bus bars to protect against electrical shocks."],
-    "image": ["/assets/img/Products/MCB-Enclosure-1.png","/assets/img/Products/MCB-Enclosure-6.png", "/assets/img/Products/MCB-Enclosure-3.png"],
+    "image": ["/assets/img/Products/MCB-Enclosure-1.png","/assets/img/Products/MCB-Enclosure-6.png", "/assets/img/Products/MCB-Enclosure-3.png","/assets/img/Products/MCB-Enclosure-4.png"],
     "subdata": [
       {
         "Item Code": ["PMC MCBE 101", "PMC MCBE 103"],
@@ -37,7 +37,7 @@
     "Product_type" : "Single Door",
     "Description": "Double-door SPN board with enhanced durability and safety features for electrical systems.",
     "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/PRODUCT3.png","/assets/img/Products/PRODUCT3.png"],
+    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/Products/SPN-Distribution-Board-PMC.png"],
     "subdata": [
       {
         "Item Code": ["PMC DB 101", "PMC DB 102", "PMC DB 103", "PMC DB 104", "PMC DB 105", "PMC DB 106"],
@@ -54,7 +54,7 @@
     "Product_type" : "Double Door",
     "Description": "Double-door SPN board with enhanced durability and safety features for electrical systems.",
     "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/PRODUCT4.png", "/assets/img/Products/PRODUCT4.png", "/assets/img/Products/PRODUCT4.png"],
+    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/Products/SPN-Distribution-Board-PMC.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -105,7 +105,7 @@
     "Product_type":"Double Door",
     "Description": "Robust iron pipe hook for secure fastening.",
     "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/PRODUCT7.png"],
+    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/Products/SPN-Distribution-Board-PMC.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -190,7 +190,7 @@
     "Product_type":"Silver",
     "Description": "Shock-proof modular box with GPSP plastic caps and internal brass nut holders.",
     "Characteristics": ["Durable zinc phosphatic treatment for anti-rust performance.", "GPSP plastic cap to ensure enhanced safety and stability.", "Shock-proof design for secure electrical installation","Premium powder-coated finish."],
-    "image": ["/assets/img/Products/PRODUCT13.png"],
+    "image": ["/assets/img/Products/Modular-Box-20-Gauge-PC.png","/assets/img/Products/Modular-Box-20-Gauge-PC-2.png","/assets/img/Products/Modular-Box-20-Gauge-PC-3.png","/assets/img/Products/Modular-Box-20-Gauge-PC-5.png"],
     "subdata": [
       {
         "Item Code": ["PMC MB 101", "PMC MB 102", "PMC MB 103", "PMC MB 104", "PMC MB 105", "PMC MB 106", "PMC MB 107", "PMC MB 108"],
@@ -206,7 +206,7 @@
     "Product_type":"Silver",
     "Description": "Shock-proof modular box with GPSP plastic caps and internal brass nut holders.",
     "Characteristics": ["Durable zinc phosphatic treatment for anti-rust performance.", "GPSP plastic cap to ensure enhanced safety and stability.", "Shock-proof design for secure electrical installation","Premium powder-coated finish."],
-    "image": ["/assets/img/Products/PRODUCT13.png"],
+    "image": ["/assets/img/Products/Modular-Box-20-Gauge-PC.png","/assets/img/Products/Modular-Box-20-Gauge-PC-2.png","/assets/img/Products/Modular-Box-20-Gauge-PC-3.png","/assets/img/Products/Modular-Box-20-Gauge-PC-5.png"],
     "subdata": [
       {
         "Item Code": ["PMC MB 101", "PMC MB 102", "PMC MB 103", "PMC MB 104", "PMC MB 105", "PMC MB 106", "PMC MB 107", "PMC MB 108"],
@@ -255,7 +255,7 @@
     "Product_type" : "Fan Box 8 Pehlu Round",
     "Description": "Robust iron pipe hook for secure fastening.",
     "Characteristics": ["Standard size", "High strength", "Rust-resistant"],
-    "image": ["/assets/img/Products/PRODUCT16.png"],
+    "image": ["/assets/img/Products/Fan-Box.png","/assets/img/Products/Fan-Box-2.png"],
     "subdata": [
       {
         "Item Code": ["PMC FB PC 101", "PMC FB PC 102", "PMC FB PC 103", "PMC FB PC 104", "PMC FB PC 104", "PMC FB PC 105"],

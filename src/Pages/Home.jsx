@@ -23,7 +23,7 @@ const Home = () => {
                     "Safety ",
                     "Durability"
                 ]}
-                NumberContent="Call any time for Freseir services"
+                NumberContent="Call for any query"
                 Number="(+578) 587 89168"
                 
             ></About>

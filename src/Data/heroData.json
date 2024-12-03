@@ -1,26 +1,26 @@
 [
   {
     "bgImg": "/assets/img/hero_bg_1.jpg",
-    "subTitle": "Repairing services",
+    
     "title": "Choose quality that stands out",
     "desc": "PMC's durable, high-performance electrical accessories bring your vision to life in any space of your choice.",
-    "img": "/assets/img/hero_img_1.png",    
+    "img": "/assets/img/PMCBANNER.png",    
     "link": "/about"
   },
   {
     "bgImg": "/assets/img/hero_bg_2.jpg",
-    "subTitle": "Repairing services",
+    
     "title": " Innovation at your fingertips",
     "desc": "Discover advanced solutions with PMC. Our products combine function with elegance, designed for reliable performance.",
-    "img": "/assets/img/hero_img_2.png",    
+    "img": "/assets/img/pmcBanner2.png",    
     "link": "/about"
   },
   {
     "bgImg": "/assets/img/hero_bg_3.jpg",
-    "subTitle": "Repairing services",
+    
     "title": " Your trusted partner in progress",
     "desc": "PMC is your partner in creating and illuminating exceptional spaces. Count on our expertise and commitment to support your vision.",
-    "img": "/assets/img/hero_img_3.png",    
+    "img": "/assets/img/pmcBanner3.png",    
     "link": "/about"
   }
 ]

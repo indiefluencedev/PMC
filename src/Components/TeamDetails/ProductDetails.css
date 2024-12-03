@@ -1,0 +1,20 @@
+/* Style for the scrollbar */
+::-webkit-scrollbar {
+    width: 4px;  /* Makes the scrollbar thin */
+}
+
+/* Style for the scrollbar track (the background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background-color: transparent;  /* Makes the scrollbar track transparent */
+}
+
+/* Style for the scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+    background-color: #e7e2e2;  /* Grey color for the thumb */
+    border-radius: 10px;      /* Rounded edges */
+}
+
+/* Hover effect for the scrollbar thumb */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555;  /* Darker grey on hover */
+}

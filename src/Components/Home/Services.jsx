@@ -3,6 +3,7 @@ import loadBackgroudImages from "../Common/loadBackgroudImages";
 import data from "../../Data/service.json";
 import SectionTitle from "../Common/SectionTitle";
 import { Link } from "react-router-dom";
+import "../Home/Services.css";
 
 const Services = () => {
 
@@ -17,10 +18,10 @@ const Services = () => {
         <div className="cs_section_heading cs_style_1 text-center">
               <SectionTitle
                     Title="Breathe easy air quality <br/>assessment"
-                    SubTitle="our best servicses"
+                    SubTitle="our best services"
               ></SectionTitle>
         </div>
-        <div className="cs_height_45 cs_height_lg_45"></div>
+        <div className="cs_height_45  cs_height_lg_45"></div>
         <div className="row cs_gap_y_30">
         {data.map((item, i) => (
           <div key={i} className="col-lg-4 col-md-6">

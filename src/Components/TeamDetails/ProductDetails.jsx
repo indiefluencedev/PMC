@@ -4,6 +4,7 @@ import BreadCumb from "../Common/BreadCumb";
 import data from "../../Data/products2.json";
 import "react-image-gallery/styles/css/image-gallery.css";
 import "./CustomGallery.css";
+import '../TeamDetails/ProductDetails.css'
 
 const ProductDetails = () => {
     const { id } = useParams(); // Get the product ID from the URL

@@ -52,7 +52,7 @@ const Footer = () => {
                 <img src={logo} alt="Logo" style={{ width: '50px', height: 'auto' }} />
               </div>
               <div>
-                <p className="cs_white_color cs_fs_14 mb-0">Need Any Cleaning Help</p>
+                <p className="cs_white_color cs_fs_14 mb-0">Call for any query</p>
                 <h3 className="mb-0 cs_fs_24 cs_semibold cs_white_color">
                   <a href="tel:+222(789)56825">+222 (789) 568 25</a>
                 </h3>
@@ -76,7 +76,8 @@ const Footer = () => {
                   <span className="cs_white_bg"></span>
                 </div>
                 <p className="cs_white_color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur consequat, nisi augue.
+                PMC - Building quality electrical accessories that stand the test of time! 
+
                 </p>
               </div>
             </div>
@@ -107,13 +108,16 @@ const Footer = () => {
                   <span className="cs_white_bg"></span>
                   <span className="cs_white_bg"></span>
                 </div>
+                <p className="fw-bolder">Parth Metal Corporation</p>
+                <p className="">An ISO 9001:2015 Certified Company</p>
                 <p className="cs_white_color">
-                  123 Main St,<br />
-                  Springfield, ST 12345<br />
-                  United States
+                Plot No. 4, Amar Market, 
+                Near B.R. International Chowk,
+                Kurukshetra - 136118, INDIA
+
                 </p>
                 <p className="cs_white_color">
-                  Phone: <a href="tel:+1234567890" className="cs_white_color">+1 (234) 567-890</a>
+                  Phone: <a href="tel:+91 9671000765, +91 9671000776" className="cs_white_color">+91 9671000765, +91 9671000776</a>
                 </p>
               </div>
             </div>

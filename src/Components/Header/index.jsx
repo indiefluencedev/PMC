@@ -43,7 +43,7 @@ export default function Header({ variant }) {
             <div className="cs_top_header_in">
               <div className="cs_top_header_left">
                 <ul className="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                  <li>Welcome to Our ArkdinAir & Services Company</li>
+                  <li>PMC - Built for life!</li>
                 </ul>
               </div>
               <div className="cs_top_header_right">

@@ -42,7 +42,7 @@ const HomeSlider = () => {
                   <div className="container">
                     <div className="cs_hero_text wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
                       <h3 className="cs_hero_mini_title cs_accent_color cs_fs_18 cs_medium cs_mb_8">
-                        <img src="/assets/img/icons/fan.svg" alt="" />
+                        {/* <img src="/assets/img/icons/fan.svg" alt="" /> */}
                         {item.subTitle}
                       </h3>
                       <h1 className=" cs_hero_title cs_white_color cs_fs_60 cs_mb_18 ms-5">{item.title}</h1>
