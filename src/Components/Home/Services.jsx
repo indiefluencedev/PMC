@@ -3,7 +3,7 @@ import loadBackgroudImages from "../Common/loadBackgroudImages";
 import data from "../../Data/service.json";
 import SectionTitle from "../Common/SectionTitle";
 import { Link } from "react-router-dom";
-import "../Home/Services.css";
+// import "../Home/Services.css";
 
 const Services = () => {
 
@@ -29,16 +29,28 @@ const Services = () => {
               <div className="cs_service_card_in">
                 <p className="cs_service_card_number cs_center cs_fs_48 cs_bold cs_mb_22">{item.id}</p>
                 <h3 className="cs_service_card_title cs_fs_24 cs_semibold cs_mb_15">{item.title}</h3>
-                <p className="cs_service_card_subtitle cs_mb_15">{item.desc}</p>
-                <Link to={item.link} className="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
+                <p 
+  className="cs_service_card_subtitle cs_mb_15" 
+  style={{ 
+    fontSize: '14px', 
+    width: '90%',
+    marginBottom: '',            // Set a width for the text container (adjust as needed)
+    marginLeft: 'auto',      // Automatically adjust the left margin to center
+    marginRight: 'auto'      // Automatically adjust the right margin to center
+  }}
+>
+  {item.desc}
+</p>
+
+                {/* <Link to={item.link} className="cs_text_btn cs_fs_14 text-uppercase cs_heading_color cs_bold">
                   READ MORE
-                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" >
                     <path d="M8.28125 1.21875L13.7812 6.46875C13.9271 6.61458 14 6.79167 14 7C14 7.20833 13.9271 7.38542 13.7812 7.53125L8.28125 12.7812C7.90625 13.0729 7.55208 13.0729 7.21875 12.7812C6.92708 12.4062 6.92708 12.0521 7.21875 11.7188L11.375 7.75H0.75C0.291667 7.70833 0.0416667 7.45833 0 7C0.0416667 6.54167 0.291667 6.29167 0.75 6.25H11.375L7.21875 2.28125C6.92708 1.94792 6.92708 1.59375 7.21875 1.21875C7.55208 0.927083 7.90625 0.927083 8.28125 1.21875Z" fill="currentColor"/>
                   </svg>                    
-                </Link>
-                <div className="cs_service_card_icon cs_center"><img src={item.img} alt="" /></div>
+                </Link> */}
+                <div className="cs_service_card_icon cs_center" ><img src={item.img} alt="" /></div>
               </div>
-              <div className="cs_service_card_bg">
+              <div className="cs_service_card_bg ">
                 <svg width="487" height="485" viewBox="0 0 487 485" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g filter="url(#filter0_d_6144_35471)">
                   <path d="M106.5 96.5L159.525 41.5287C160.468 40.5518 161.767 40 163.124 40H310.906C312.245 40 313.529 40.5377 314.469 41.4926L375.5 103.5L435.35 157.511C436.4 158.459 437 159.808 437 161.223V308.815C437 310.208 436.419 311.538 435.396 312.484L376.5 367L314.432 423.692C313.511 424.533 312.308 425 311.06 425H243.5H163.124C161.767 425 160.468 424.448 159.525 423.471L106.5 368.5L51.4336 312.459C50.5148 311.524 50 310.265 50 308.955V155.071C50 153.745 50.5268 152.473 51.4645 151.536L106.5 96.5Z" fill="white"/>
