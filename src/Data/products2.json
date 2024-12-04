@@ -4,7 +4,7 @@
     "Product_type": "Louver",
     "Description": "Weather-proof aluminum flaps with a durable, rust-resistant mild steel frame, designed to reduce exhaust fan noise and pest interference",
     "Characteristics": ["Weather-Proof design ro resistant from environmental elements, ensuring durability and performance.", "All flaps move together, effectively minimizing exhaust fan noise in the room.", "Zinc phosphate treatment with a 7-tank process to protect against rust and ensure longevity.","Effectively reduces pest interference, offering added protection for your home."],
-    "image": ["/assets/img/Products/PRODUCT1.png", "/assets/img/Products/PRODUCT2.png", "/assets/img/Products/PRODUCT3.png"],
+    "image": ["/assets/img/Products/ALUMINUM-FLAP-COVER-front.png", "/assets/img/Products/ALUMINUM-FLAP-COVER-right.png" ],
     "subdata": [
       {
         "Item Code": ["PMC AL 101", "PMC AL 102", "PMC AL 103", "PMC AL 104", "PMC AL 105"],
@@ -54,7 +54,7 @@
     "Product_type" : "Double Door",
     "Description": "Double-door SPN board with enhanced durability and safety features for electrical systems.",
     "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/Products/SPN-Distribution-Board-PMC.png"],
+    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/SPN1.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -71,7 +71,7 @@
     "Product_type":"Single Door",
     "Description": "Double-door TPN board with an unbreakable locking system and superior durability.",
     "Characteristics": ["Rust-resistant with a 7-tank zinc phosphatic treatment.", "Features an unbreakable raw material door locking system.", "Double-door design enhances accessibility and safety.","Premium powder coating for a long-lasting finish."],
-    "image": ["/assets/img/Products/PRODUCT5.png"],
+    "image": ["/assets/img/Products"],
     "subdata": [
       {
         "Door Type": "Single Door",
@@ -88,7 +88,7 @@
     "Product_type":"Double Door",
     "Description": "Double-door TPN board with an unbreakable locking system and superior durability.",
     "Characteristics": ["Rust-resistant with a 7-tank zinc phosphatic treatment.", "Features an unbreakable raw material door locking system.", "Double-door design enhances accessibility and safety.","Premium powder coating for a long-lasting finish."],
-    "image": ["/assets/img/Products/PRODUCT6.png"],
+    "image": ["/assets/img/Products/l2.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -100,23 +100,7 @@
       }
     ]
   },
-  {
-    "Category": "SPN Distribution Board",
-    "Product_type":"Double Door",
-    "Description": "Robust iron pipe hook for secure fastening.",
-    "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/Products/SPN-Distribution-Board-PMC.png"],
-    "subdata": [
-      {
-        "Door Type": "Double Door",
-        "Item Code": ["PMC DB LP102", "PMC DB LP103", "PMC DB LP104", "PMC DB LP105", "PMC DB LP106"],
-
-        "Way": ["4 way", "6 way", "8 way", "10 way", "12 way", "16 way"],
-        "Standard Packing": 1,
-        "Master Packing": [24, 24, 24, 16, 16, 12]
-      }
-    ]
-  },
+  
   {
     "Category": "Ceiling Fan Downrod",
     "Product_type":"16 Guage Thickness",
