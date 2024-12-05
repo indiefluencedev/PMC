@@ -54,7 +54,7 @@
     "Product_type" : "Double Door",
     "Description": "Double-door SPN board with enhanced durability and safety features for electrical systems.",
     "Characteristics": ["Zinc phosphatic treatment to ensure rust resistance and long life.", "Includes a transparent PET cement guard for added protection.", "Earth terminal with an external brass nut bar for secure connections.","Heavy-gauge material for a sturdy and reliable build"],
-    "image": ["/assets/img/Products/SPN-Distribution-Board-PMC-2.png","/assets/img/SPN1.png"],
+    "image": ["/assets/img/Products/PMC/SPNdoubledoor/A1.png","/assets/img/Products/PMC/SPNdoubledoor/A2.png","/assets/img/Products/PMC/SPNdoubledoor/A3.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -71,7 +71,7 @@
     "Product_type":"Single Door",
     "Description": "Double-door TPN board with an unbreakable locking system and superior durability.",
     "Characteristics": ["Rust-resistant with a 7-tank zinc phosphatic treatment.", "Features an unbreakable raw material door locking system.", "Double-door design enhances accessibility and safety.","Premium powder coating for a long-lasting finish."],
-    "image": ["/assets/img/Products"],
+    "image": ["/assets/img/Products/PMC/TPN-Distribution-Board/A2.png","/assets/img/Products/PMC/TPN-Distribution-Board/A1.png"],
     "subdata": [
       {
         "Door Type": "Single Door",
@@ -88,7 +88,7 @@
     "Product_type":"Double Door",
     "Description": "Double-door TPN board with an unbreakable locking system and superior durability.",
     "Characteristics": ["Rust-resistant with a 7-tank zinc phosphatic treatment.", "Features an unbreakable raw material door locking system.", "Double-door design enhances accessibility and safety.","Premium powder coating for a long-lasting finish."],
-    "image": ["/assets/img/Products/l2.png"],
+    "image": ["/assets/img/Products/PMC/TPN-Distribution-Board-2/A1.png","/assets/img/Products/PMC/TPN-Distribution-Board-2/A2.png","/assets/img/Products/PMC/TPN-Distribution-Board-2/A3.png"],
     "subdata": [
       {
         "Door Type": "Double Door",
@@ -106,7 +106,7 @@
     "Product_type":"16 Guage Thickness",
     "Description": "Heavy-duty ceiling fan downrod hanger with precise holes and anti-rust treatment.",
     "Characteristics": ["Constructed with heavy-grade material for durability.", "Zinc phosphatic treatment prevents rust and corrosion.", "Precision-drilled holes for easy and secure installation.","Superior powder-coated finish for enhanced aesthetics."],
-    "image": ["/assets/img/Products/PRODUCT8.png"],
+    "image": ["/assets/img/Products/a2.png","/assets/img/Products/a3.png","/assets/img/Products/CELLING-FAN-Downrod.png"],
     "subdata": [
       {
         "Item Code": ["PMC CF DR 101", "PMC CF DR 102", "PMC CF DR 103", "PMC CF DR 104", "PMC CF DR 105", "PMC CF DR 106", "PMC CF DR 107", "PMC CF DR 108", "PMC CF DR 109", "PMC CF DR 110"],
@@ -142,7 +142,7 @@
     "Product_type":"Iron Pipe Hook",
     "Description": "Durable iron pipe hook with precise design, sharp threading, and electroplated zinc coating for secure and rust-resistant PVC pipe installation.",
     "Characteristics": ["Tempered header nail to prevent bending for reliable and long-lasting use.", "Electroplated zinc coating for a promising rust resistance and durability.", "Definite Bend Design to securely hold PVC pipes with exact measurements.","Sharp Thread & Head to ensure easy wall engraving and hassle-free installation."],
-    "image": ["/assets/img/Products/Iron-Pipe-Hook-2.png"],
+    "image": ["/assets/img/Products/Iron-Pipe-Hook-2.png","/assets/img/Products/iron-pipe-hook .png"],
     "subdata": [
       {
         "Item Code": ["PMC IJH 101", "PMC IJH 102"],

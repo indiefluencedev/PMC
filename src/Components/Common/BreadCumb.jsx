@@ -9,7 +9,7 @@ const BreadCumb = ({Title}) => {
       }, []);
 
     return (
-        <section className="cs_page_heading cs_bg_filed cs_center cs_primary_bg text-center" data-background="/assets/img/page_heading_1.jpg">
+        <section className="cs_page_heading cs_bg_filed cs_center cs_primary_bg text-center" data-background="/assets/img/page_heading_1.png">
           <div className="container">
             <h1 className="cs_white_color cs_semibold cs_white_color cs_mb_10 cs_fs_64">{Title}</h1>
             <ol className="breadcrumb">

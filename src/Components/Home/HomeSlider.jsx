@@ -38,6 +38,7 @@ const HomeSlider = () => {
              <Slider  {...settings} >
              {data.map((item, i) => (
               <div key={i} className="cs_slide">
+                <div>
                 <div className="cs_hero cs_style_1 cs_bg_filed cs_primary_bg cs_center" data-background={item.bgImg}>
                   <div className="container">
                     <div className="cs_hero_text wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
@@ -63,7 +64,8 @@ const HomeSlider = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="cs_hero_img"><img src={item.img} alt="" /></div>
+                  {/* <div className="cs_hero_img"><img src={item.img} alt="" /></div> */}
+                </div>
                 </div>
               </div>
               ))}

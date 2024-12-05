@@ -1,6 +1,6 @@
 [
   {
-    "bgImg": "/assets/img/hero_bg_1.jpg",
+    "bgImg": "/assets/img/pmc-34-copy.png",
     
     "title": "Choose quality that stands out",
     "desc": "PMC's durable, high-performance electrical accessories bring your vision to life in any space of your choice.",
@@ -8,19 +8,12 @@
     "link": "/about"
   },
   {
-    "bgImg": "/assets/img/hero_bg_2.jpg",
+    "bgImg": "/assets/img/Untitled-3.png",
     
     "title": " Innovation at your fingertips",
     "desc": "Discover advanced solutions with PMC. Our products combine function with elegance, designed for reliable performance.",
     "img": "/assets/img/pmcBanner2.png",    
     "link": "/about"
-  },
-  {
-    "bgImg": "/assets/img/hero_bg_3.jpg",
-    
-    "title": " Your trusted partner in progress",
-    "desc": "PMC is your partner in creating and illuminating exceptional spaces. Count on our expertise and commitment to support your vision.",
-    "img": "/assets/img/pmcBanner3.png",    
-    "link": "/about"
   }
+ 
 ]

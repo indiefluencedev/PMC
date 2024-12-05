@@ -17,8 +17,8 @@ const Services = () => {
       <div className="container">
         <div className="cs_section_heading cs_style_1 text-center">
               <SectionTitle
-                    Title="Breathe easy air quality <br/>assessment"
-                    SubTitle="our best services"
+                    Title="What makes PMC stand out in the market"
+                    SubTitle="Our specialities"
               ></SectionTitle>
         </div>
         <div className="cs_height_45  cs_height_lg_45"></div>

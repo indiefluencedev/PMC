@@ -40,7 +40,7 @@ const Testimonial3 = () => {
       };
 
     return (
-        <section className="cs_testimonial_1_section cs_bg_filed" data-background="/assets/img/testimonial_bg_2.jpg">
+        <section className="cs_testimonial_1_section cs_bg_filed" data-background="/assets/img/pmc-testimonial-banner.png">
         <div className="cs_height_115 cs_height_lg_70"></div>
         <div className="container">
           <div className="cs_section_heading cs_style_1">
