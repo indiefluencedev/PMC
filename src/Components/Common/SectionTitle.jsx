@@ -8,9 +8,7 @@ const SectionTitle = ({Title,SubTitle}) => {
             <img src="/assets/img/icons/fan.svg" alt="" className="cs_section_subheading_icon" />
             {parse(SubTitle)}
           </h3>
-          <h2 className="cs_section_title cs_fs_48 cs_semibold mb-0" style={{ 
-    color:'white',
-  }}>{parse(Title)}</h2>           
+          <h2 className="cs_section_title cs_fs_48 cs_semibold mb-0" >{parse(Title)}</h2>           
         </div>
         
     );

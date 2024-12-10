@@ -44,11 +44,21 @@ const Testimonial3 = () => {
         <div className="cs_height_115 cs_height_lg_70"></div>
         <div className="container">
           <div className="cs_section_heading cs_style_1">
-           <SectionTitle
-                    Title="What clients say <br/>About us"
-                    SubTitle="Testimonials"                
+
+          <div>
+           <h3 className="cs_section_subtitle cs_accent_color text-uppercase cs_medium cs_fs_20 cs_mb_10 wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
+            <img src="/assets/img/icons/fan.svg" alt="" className="cs_section_subheading_icon" />
+            Testimonials
+          </h3>
+          <h2 className="cs_section_title cs_fs_48 cs_semibold mb-0" style={{ 
+    color:'white',
+  }} >What clients say <br/>About us</h2>           
+        </div>
+           {/* <SectionTitle
+                    Title=""
+                    SubTitle=""                
                 >
-            </SectionTitle>
+            </SectionTitle> */}
           </div>
           <div className="cs_height_45 cs_height_lg_45"></div>
           <div className="cs_slider cs_style_1 cs_slider_gap_30">
